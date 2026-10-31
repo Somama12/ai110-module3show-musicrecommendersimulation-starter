@@ -1,0 +1,58 @@
+Loaded songs: 20
+Profile: lofi | mode: genre-first
+#   Song / Artist                                 Score  Reasons
+-------------------------------------------------------------------------------------------------------------------
+1   Paper Moon Loop / Quiet Current               6.466  genre match (lofi) (+2.000); mood match (chill) (+1.000);
+                                                         energy 0.36 vs target 0.35 (+0.990); tempo_bpm 74 vs
+                                                         target 75 (+0.497); valence 0.54 vs target 0.55 (+0.247);
+                                                         danceability 0.51 vs target 0.5 (+0.247); acousticness
+                                                         0.84 vs target 0.85 (+0.247); instrumentalness 0.93 vs
+                                                         target 0.9 (+0.242); popularity 28 vs target 30 (+0.245);
+                                                         release_year 2020 vs target 2020 (+0.250);
+                                                         duration_seconds 182 vs target 180 (+0.249);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.000); base 6.466
+
+2   Library Rain / Paper Lanterns                 6.412  genre match (lofi) (+2.000); mood match (chill) (+1.000);
+                                                         energy 0.35 vs target 0.35 (+1.000); tempo_bpm 72 vs
+                                                         target 75 (+0.492); valence 0.6 vs target 0.55 (+0.238);
+                                                         danceability 0.58 vs target 0.5 (+0.230); acousticness
+                                                         0.86 vs target 0.85 (+0.247); instrumentalness 0.98 vs
+                                                         target 0.9 (+0.230); popularity 24 vs target 30 (+0.235);
+                                                         release_year 2021 vs target 2020 (+0.247);
+                                                         duration_seconds 195 vs target 180 (+0.243);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.000); base 6.412
+
+3   Midnight Coding / LoRoom                      6.337  genre match (lofi) (+2.000); mood match (chill) (+1.000);
+                                                         energy 0.42 vs target 0.35 (+0.930); tempo_bpm 78 vs
+                                                         target 75 (+0.492); valence 0.56 vs target 0.55 (+0.247);
+                                                         danceability 0.62 vs target 0.5 (+0.220); acousticness
+                                                         0.71 vs target 0.85 (+0.215); instrumentalness 0.95 vs
+                                                         target 0.9 (+0.238); popularity 32 vs target 30 (+0.245);
+                                                         release_year 2020 vs target 2020 (+0.250);
+                                                         duration_seconds 180 vs target 180 (+0.250);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.000); base 6.337
+
+4   Focus Flow / LoRoom                           4.758  genre match (lofi) (+2.000); mood mismatch (focused)
+                                                         (+0.000); energy 0.4 vs target 0.35 (+0.950); tempo_bpm 80
+                                                         vs target 75 (+0.486); valence 0.59 vs target 0.55
+                                                         (+0.240); danceability 0.6 vs target 0.5 (+0.225);
+                                                         acousticness 0.78 vs target 0.85 (+0.233);
+                                                         instrumentalness 0.96 vs target 0.9 (+0.235); popularity
+                                                         30 vs target 30 (+0.250); release_year 2022 vs target 2020
+                                                         (+0.244); duration_seconds 170 vs target 180 (+0.245);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.600); base 5.358
+
+5   Sunday Strings / Cedar Lane                   4.290  genre mismatch (acoustic) (+0.000); mood match (chill)
+                                                         (+1.000); energy 0.3 vs target 0.35 (+0.950); tempo_bpm 74
+                                                         vs target 75 (+0.497); valence 0.58 vs target 0.55
+                                                         (+0.243); danceability 0.4 vs target 0.5 (+0.225);
+                                                         acousticness 0.98 vs target 0.85 (+0.217);
+                                                         instrumentalness 0.6 vs target 0.9 (+0.175); popularity 25
+                                                         vs target 30 (+0.237); release_year 2020 vs target 2020
+                                                         (+0.250); duration_seconds 190 vs target 180 (+0.245);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.000); base 4.290

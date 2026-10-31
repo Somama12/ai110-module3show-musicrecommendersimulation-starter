@@ -1,0 +1,20 @@
+flowchart TD
+    A[CLI: built-in profile or JSON preferences] --> B[Validate preferences and options]
+    C[data/songs.csv] --> D[Parse numbers and validate catalog]
+    B --> E{Reliable mode?}
+    D --> E
+    E -->|No: Project 3| H[Strategy weights and per-song scoring]
+    E -->|Yes: Project 4| F{Requested genre represented?}
+    F -->|No| G[Abstain with coverage message]
+    F -->|Yes| I[Score all songs and gate normalized match]
+    I --> H
+    H --> J[Greedy ranking with artist repeat penalty]
+    J --> K{Reliable mode?}
+    K -->|Yes| L[Audit membership, IDs, score, order and reasons]
+    L --> M[OK, partial or abstained report]
+    M --> N[Formatted table and optional JSON audit events]
+    K -->|No| N
+    G --> N
+    O[Evaluation harness: 9 predefined scenarios] --> F
+    B -->|Invalid| P[Error message and exit code 2]
+    D -->|Invalid| P

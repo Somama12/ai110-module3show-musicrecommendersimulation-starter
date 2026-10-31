@@ -1,0 +1,58 @@
+Loaded songs: 20
+Profile: edm | mode: genre-first
+#   Song / Artist                                 Score  Reasons
+-------------------------------------------------------------------------------------------------------------------
+1   Electric Horizon / Pulse Arcade               6.470  genre match (edm) (+2.000); mood match (intense) (+1.000);
+                                                         energy 0.96 vs target 0.95 (+0.990); tempo_bpm 145 vs
+                                                         target 145 (+0.500); valence 0.65 vs target 0.65 (+0.250);
+                                                         danceability 0.96 vs target 0.95 (+0.247); acousticness
+                                                         0.03 vs target 0.05 (+0.245); instrumentalness 0.72 vs
+                                                         target 0.7 (+0.245); popularity 68 vs target 65 (+0.242);
+                                                         release_year 2023 vs target 2023 (+0.250);
+                                                         duration_seconds 240 vs target 240 (+0.250);
+                                                         live_performance 1 vs target 1 (+0.250); artist repeat
+                                                         penalty (-0.000); base 6.470
+
+2   Bassline Orbit / Signal Bloom                 6.138  genre match (edm) (+2.000); mood match (intense) (+1.000);
+                                                         energy 0.92 vs target 0.95 (+0.970); tempo_bpm 150 vs
+                                                         target 145 (+0.486); valence 0.62 vs target 0.65 (+0.242);
+                                                         danceability 0.91 vs target 0.95 (+0.240); acousticness
+                                                         0.06 vs target 0.05 (+0.247); instrumentalness 0.8 vs
+                                                         target 0.7 (+0.225); popularity 58 vs target 65 (+0.232);
+                                                         release_year 2024 vs target 2023 (+0.247);
+                                                         duration_seconds 235 vs target 240 (+0.248);
+                                                         live_performance 0 vs target 1 (+0.000); artist repeat
+                                                         penalty (-0.000); base 6.138
+
+3   Festival Afterglow / Pulse Arcade             5.842  genre match (edm) (+2.000); mood match (intense) (+1.000);
+                                                         energy 0.93 vs target 0.95 (+0.980); tempo_bpm 142 vs
+                                                         target 145 (+0.492); valence 0.68 vs target 0.65 (+0.242);
+                                                         danceability 0.94 vs target 0.95 (+0.247); acousticness
+                                                         0.04 vs target 0.05 (+0.247); instrumentalness 0.75 vs
+                                                         target 0.7 (+0.237); popularity 66 vs target 65 (+0.247);
+                                                         release_year 2023 vs target 2023 (+0.250);
+                                                         duration_seconds 245 vs target 240 (+0.248);
+                                                         live_performance 1 vs target 1 (+0.250); artist repeat
+                                                         penalty (-0.600); base 6.442
+
+4   Storm Runner / Voltline                       4.120  genre mismatch (rock) (+0.000); mood match (intense)
+                                                         (+1.000); energy 0.91 vs target 0.95 (+0.960); tempo_bpm
+                                                         152 vs target 145 (+0.481); valence 0.48 vs target 0.65
+                                                         (+0.207); danceability 0.66 vs target 0.95 (+0.178);
+                                                         acousticness 0.1 vs target 0.05 (+0.237); instrumentalness
+                                                         0.08 vs target 0.7 (+0.095); popularity 72 vs target 65
+                                                         (+0.232); release_year 2018 vs target 2023 (+0.234);
+                                                         duration_seconds 230 vs target 240 (+0.245);
+                                                         live_performance 1 vs target 1 (+0.250); artist repeat
+                                                         penalty (-0.000); base 4.120
+
+5   Gym Hero / Max Pulse                          3.908  genre mismatch (pop) (+0.000); mood match (intense)
+                                                         (+1.000); energy 0.93 vs target 0.95 (+0.980); tempo_bpm
+                                                         132 vs target 145 (+0.464); valence 0.77 vs target 0.65
+                                                         (+0.220); danceability 0.88 vs target 0.95 (+0.233);
+                                                         acousticness 0.05 vs target 0.05 (+0.250);
+                                                         instrumentalness 0.02 vs target 0.7 (+0.080); popularity
+                                                         85 vs target 65 (+0.200); release_year 2023 vs target 2023
+                                                         (+0.250); duration_seconds 200 vs target 240 (+0.231);
+                                                         live_performance 0 vs target 1 (+0.000); artist repeat
+                                                         penalty (-0.000); base 3.908

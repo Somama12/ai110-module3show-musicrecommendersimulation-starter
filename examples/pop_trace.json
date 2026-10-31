@@ -1,0 +1,27 @@
+[
+  {
+    "stage": "validate",
+    "result": "passed",
+    "catalog_size": 20
+  },
+  {
+    "stage": "match_gate",
+    "threshold": 0.7,
+    "eligible": 3,
+    "rejected": 17
+  },
+  {
+    "stage": "rank_and_audit",
+    "result": "passed",
+    "selected_ids": [
+      19,
+      1,
+      5
+    ],
+    "scores": [
+      6.466296,
+      6.459444,
+      5.231412
+    ]
+  }
+]

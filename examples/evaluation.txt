@@ -1,0 +1,11 @@
+PASS | pop: top genre and three reliable results
+PASS | lofi: top genre and three reliable results
+PASS | edm: top genre and three reliable results
+PASS | unsupported genre: abstain
+PASS | strict threshold: abstain
+PASS | partial result: no weak padding
+PASS | invalid energy: rejected
+PASS | artist diversity: increases top-two unique artists
+PASS | mode switch: changes top-three selection
+
+Evaluation: 9/9 passed

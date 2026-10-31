@@ -1,0 +1,58 @@
+Loaded songs: 20
+Profile: pop | mode: genre-first
+#   Song / Artist                                 Score  Reasons
+-------------------------------------------------------------------------------------------------------------------
+1   Golden Hour Ride / Daybreak Club              6.466  genre match (pop) (+2.000); mood match (happy) (+1.000);
+                                                         energy 0.79 vs target 0.8 (+0.990); tempo_bpm 121 vs
+                                                         target 120 (+0.497); valence 0.86 vs target 0.85 (+0.247);
+                                                         danceability 0.81 vs target 0.8 (+0.247); acousticness
+                                                         0.21 vs target 0.2 (+0.247); instrumentalness 0.04 vs
+                                                         target 0.05 (+0.247); popularity 76 vs target 80 (+0.240);
+                                                         release_year 2022 vs target 2022 (+0.250);
+                                                         duration_seconds 208 vs target 210 (+0.249);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.000); base 6.466
+
+2   Sunrise City / Neon Echo                      6.459  genre match (pop) (+2.000); mood match (happy) (+1.000);
+                                                         energy 0.82 vs target 0.8 (+0.980); tempo_bpm 118 vs
+                                                         target 120 (+0.494); valence 0.84 vs target 0.85 (+0.247);
+                                                         danceability 0.79 vs target 0.8 (+0.247); acousticness
+                                                         0.18 vs target 0.2 (+0.245); instrumentalness 0.05 vs
+                                                         target 0.05 (+0.250); popularity 82 vs target 80 (+0.245);
+                                                         release_year 2022 vs target 2022 (+0.250);
+                                                         duration_seconds 210 vs target 210 (+0.250);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.000); base 6.459
+
+3   Gym Hero / Max Pulse                          5.231  genre match (pop) (+2.000); mood mismatch (intense)
+                                                         (+0.000); energy 0.93 vs target 0.8 (+0.870); tempo_bpm
+                                                         132 vs target 120 (+0.467); valence 0.77 vs target 0.85
+                                                         (+0.230); danceability 0.88 vs target 0.8 (+0.230);
+                                                         acousticness 0.05 vs target 0.2 (+0.212); instrumentalness
+                                                         0.02 vs target 0.05 (+0.242); popularity 85 vs target 80
+                                                         (+0.237); release_year 2023 vs target 2022 (+0.247);
+                                                         duration_seconds 200 vs target 210 (+0.245);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.000); base 5.231
+
+4   Rooftop Lights / Indigo Parade                4.328  genre mismatch (indie pop) (+0.000); mood match (happy)
+                                                         (+1.000); energy 0.76 vs target 0.8 (+0.960); tempo_bpm
+                                                         124 vs target 120 (+0.489); valence 0.81 vs target 0.85
+                                                         (+0.240); danceability 0.82 vs target 0.8 (+0.245);
+                                                         acousticness 0.35 vs target 0.2 (+0.213); instrumentalness
+                                                         0.1 vs target 0.05 (+0.237); popularity 60 vs target 80
+                                                         (+0.200); release_year 2021 vs target 2022 (+0.247);
+                                                         duration_seconds 215 vs target 210 (+0.248);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.000); base 4.328
+
+5   City Notebook / Verse Atlas                   3.183  genre mismatch (hip-hop) (+0.000); mood mismatch (focused)
+                                                         (+0.000); energy 0.7 vs target 0.8 (+0.900); tempo_bpm 94
+                                                         vs target 120 (+0.428); valence 0.55 vs target 0.85
+                                                         (+0.175); danceability 0.85 vs target 0.8 (+0.238);
+                                                         acousticness 0.2 vs target 0.2 (+0.250); instrumentalness
+                                                         0.02 vs target 0.05 (+0.242); popularity 61 vs target 80
+                                                         (+0.203); release_year 2022 vs target 2022 (+0.250);
+                                                         duration_seconds 205 vs target 210 (+0.248);
+                                                         live_performance 0 vs target 0 (+0.250); artist repeat
+                                                         penalty (-0.000); base 3.183
