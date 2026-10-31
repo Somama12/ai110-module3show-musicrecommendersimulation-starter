@@ -542,9 +542,9 @@ The catalog is small, synthetic, English-labeled, and uneven across genres. Genr
 
 ## Reflection
 
-The main lesson in this implementation is that recommendations depend on what the scoring rule rewards. Gym Hero reaches third place for a happy-pop listener even though its mood is intense: its genre match is worth more than the missing mood point. Changing the weights makes that design choice visible. The system gives a transparent ranking, but its score is not proof that a listener will like a track.
+My biggest takeaway is that the scoring rules shape what looks like a good recommendation. Gym Hero ranks third for the happy-pop profile even though its mood is intense, because the genre match carries more weight. Switching modes changes that result. The artist-diversity experiment makes another tradeoff visible: a slightly lower-scoring song can give a different artist a place near the top. These examples help explain why a recommendation score is not the same thing as knowing what someone will enjoy.
 
-The diversity experiment also shows why relevance and variety can compete. Giving a repeated artist a penalty creates space for another artist, while reducing the score of an otherwise strong match. A future version should use a larger, better-balanced catalog and actual listener feedback to evaluate whether those tradeoffs help. AI assistance generated the implementation and documentation; [ai_interactions.md](ai_interactions.md) records the collaboration and distinguishes automated checks from personal verification.
+I used Codex to generate the implementation, tests, and documentation, and I redirected the initial standalone-project plan by providing the assigned CodePath starter. The agent verified that the original song data was preserved and ran 35 passing tests and nine passing evaluation scenarios. I would next try a larger catalog and real listener feedback to improve the weights and reliability threshold. My full reflection is in the [model card](model_card.md#9-personal-reflection), and the [AI collaboration log](ai_interactions.md) records which work and checks were completed with AI assistance.
 
 ## Files and rubric evidence
 
